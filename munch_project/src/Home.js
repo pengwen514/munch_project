@@ -1,10 +1,11 @@
+import RestaurantList from './RestaurantList'
 import diceGif from './dice.gif'
 import { useState } from 'react'
 
 const Home = ()=> {
 
     const handleClick = () => {
-        setRestaurants('')
+        <RestaurantList restaurants={restaurants}/>
     }
     
     const [restaurants, setRestaurants] = useState([
