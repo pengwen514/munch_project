@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+# Getting Started with Munch
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created with indecisive eaters in mind, 
+Munch was made to randomly generate a meal when the die is clicked, to give ideas for breakfast,
+lunch, dinner.
+
+# Future Features
+
+In the near future, I hope to implement dietary restriction and preference selection,
+restaurant mode that will randomly generate nearby restaurants, and many more features. This is currently
+Munch's MVP and will only generate random meals.
 
 ## Available Scripts
 
@@ -39,11 +47,19 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## Credits
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+I spent much of my self-study time watching The Net Ninja's Full Modern React Tutorial.
+For this project in particular I benefitted from TheMealDB's API.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Contact Information
+
+I can be reached at phuff110@gmail.com or through github @pengwen514
+
+## Acknowledgments
+
+I thank my amazing team for keeping me motivated and on task, as well as Multiverse for providing this
+incredible opportunity to me. Thank you all
 
 ### Code Splitting
 
