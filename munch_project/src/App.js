@@ -11,7 +11,7 @@ function App() {
      <div className="content">
       <Router>
         <Routes>
-          <Route exact path = '/home' Component={Home} />
+          <Route exact path = '/' Component={Home} />
           <Route path = '/meal' Component={Meal} />
         </Routes>
       </Router>
