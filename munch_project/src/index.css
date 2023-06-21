@@ -53,3 +53,26 @@
   -webkit-transform: scale(1.1);
   transform: scale(1.1);
 }
+
+.die{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  object-fit: cover;
+  width: 100%;
+}
+
+.die img{
+  margin-top: 1px;
+  width: 300px;
+}
+
+.meal{
+  font-family: 'Nopelia';
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 30px;
+  color: #ffbd59;
+  text-shadow: 5px 5px 5px #004aad;
+}

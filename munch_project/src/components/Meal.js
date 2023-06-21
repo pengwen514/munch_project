@@ -18,7 +18,7 @@ const Meal = () => {
 
   return (
     <>
-      <div className="button">
+      <div className="die">
         <img src={diceGif} alt='Dice GIF' onClick={() => fetchFood()}/>
       </div>
       <section className="meals">
@@ -31,10 +31,8 @@ const Meal = () => {
 
           return (
             <article key={idMeal}>
-              <div>
-                <h2>
-                 {strMeal}
-                </h2>
+              <div className='meal'>
+                <h2>{strMeal}</h2>
                 <img src={strMealThumb} alt={strMeal} />
               </div>
             </article>
