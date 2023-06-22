@@ -4,7 +4,7 @@ import diceGif from './dice.gif'
 const Home = ()=> {
 
     const handleClick = () => {
-        window.location.href = '/meal'
+        window.location.href = 'https://main--ornate-starship-f64ead.netlify.app/meal'
     }
 
     return(
