@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Back End Diary Project](https://github.com/pengwen514/diaryproject)
 
-- 🌱 I’m currently learning **IntelliJ, Spring**
+- 🌱 I’m currently learning **Github Pages, Docker**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pengwen514](https://github.com/pengwen514)
 
